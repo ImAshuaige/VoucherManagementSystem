@@ -42,5 +42,6 @@ CREATE TABLE vouchers (
 - [Import Vouchers From CSV](http://localhost/voucher/import_from_csv.php)
 
 ### Partial Interface Screenshots
-1. tbc
+![p1](https://ibb.co/WGXBBVz)
+
 
