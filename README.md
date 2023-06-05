@@ -43,5 +43,8 @@ CREATE TABLE vouchers (
 
 ### Partial Interface Screenshots
 ![Voucher Listing](https://i.ibb.co/XshvKPZ/Voucher-Listing.png)
+![Add Voucher](https://i.ibb.co/hLN22Yd/add-Voucher.png)
+![ImportCSV](https://i.ibb.co/sH6Vwv9/import-Vouchers-From-CSV.png)
+![Edit Voucher](https://i.ibb.co/kxXrDHk/Voucher-Editing.png)
 
 
