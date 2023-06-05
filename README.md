@@ -17,7 +17,7 @@ This is a PHP assignment that primarily focuses on practicing CRUD operations fo
 - dbName: voucher
 - create table query: 
 
-**CREATE TABLE vouchers (
+'CREATE TABLE vouchers (
     id INT AUTO_INCREMENT PRIMARY KEY,
     customer_id INT NOT NULL,
     customer_name VARCHAR(255) NOT NULL,
@@ -25,7 +25,7 @@ This is a PHP assignment that primarily focuses on practicing CRUD operations fo
     amount DECIMAL(10,2) NOT NULL,
     issued_date DATE NOT NULL,
     expiration_date DATE NOT NULL
-);**
+);'
 
 - [phpMyAdmin](http://localhost/phpmyadmin)
 
