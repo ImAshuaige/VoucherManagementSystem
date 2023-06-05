@@ -3,20 +3,21 @@ This is a PHP assignment that primarily focuses on practicing CRUD operations fo
 
 ### Tools and Technologies Used 
 1. Server Environment
-- XAMPP
+   - XAMPP
 2. Server-Side Language
-- PHP
+   - PHP
 3. Database Management
-- MySQL
+   - MySQL
 4. Client-Side Technologies
-- HTML
-- CSS
-- JS
+   - HTML
+   - CSS
+   - JS
 
 ### MySQL Database Setup
 - dbName: voucher
 - create table query: 
-CREATE TABLE vouchers (
+
+**CREATE TABLE vouchers (
     id INT AUTO_INCREMENT PRIMARY KEY,
     customer_id INT NOT NULL,
     customer_name VARCHAR(255) NOT NULL,
@@ -24,7 +25,8 @@ CREATE TABLE vouchers (
     amount DECIMAL(10,2) NOT NULL,
     issued_date DATE NOT NULL,
     expiration_date DATE NOT NULL
-);
+);**
+
 - [phpMyAdmin](http://localhost/phpmyadmin)
 
 ### Steps to Run the Project
