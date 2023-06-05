@@ -12,6 +12,7 @@ This is a PHP assignment that primarily focuses on practicing CRUD operations fo
    - HTML
    - CSS
    - JS
+   - Bootstrap
 
 ### MySQL Database Setup
 - dbName: voucher
